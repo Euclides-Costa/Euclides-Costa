@@ -30,7 +30,7 @@
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-<!-- ![Google_Colab](https://img.shields.io/badge/-google_colab-0D1117?style=for-the-badge&logo=google_colab&labelColor=0D1117)&nbsp; -->
+![Replit](https://img.shields.io/badge/-replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
 <!-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-0D1117?style=for-the-badge&logo=jupyter_notebook&labelColor=0D1117)&nbsp; -->
 
 ### Other Knowledge:
